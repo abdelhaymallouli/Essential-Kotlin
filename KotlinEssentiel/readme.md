@@ -15,13 +15,11 @@ This project demonstrates **functions and lambdas** in Kotlin:
 1. Save the file as **`FunctionsPlayground.kt`**.
 2. Open in **IntelliJ IDEA** or run with the Kotlin CLI:
 
-   ```bash
-   kotlinc FunctionsPlayground.kt -include-runtime -d functions.jar
-   java -jar functions.jar
-   ```
+
 3. Run ▶ to execute `main()`.
 
 ---
+
 
 ## 📦 Console Output (Expected)
 
@@ -36,5 +34,12 @@ Bonjour, Alan!!
 KOTLIN
 Hello Kotlin
 ```
+
+---
+
+## 🖼️ Screenshot Proof
+
+![Console Screenshot](screenshot.png)
+
 
 ---
